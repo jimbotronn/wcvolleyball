@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wcvolleyball/static/css/main.ca269f35.chunk.css",
-    "main.js": "/wcvolleyball/static/js/main.c6ec4379.chunk.js",
-    "main.js.map": "/wcvolleyball/static/js/main.c6ec4379.chunk.js.map",
+    "main.js": "/wcvolleyball/static/js/main.f55d95c4.chunk.js",
+    "main.js.map": "/wcvolleyball/static/js/main.f55d95c4.chunk.js.map",
     "runtime-main.js": "/wcvolleyball/static/js/runtime-main.594d4a5e.js",
     "runtime-main.js.map": "/wcvolleyball/static/js/runtime-main.594d4a5e.js.map",
     "static/css/2.0ccfe9d6.chunk.css": "/wcvolleyball/static/css/2.0ccfe9d6.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.0ccfe9d6.chunk.css",
     "static/js/2.3927b47f.chunk.js",
     "static/css/main.ca269f35.chunk.css",
-    "static/js/main.c6ec4379.chunk.js"
+    "static/js/main.f55d95c4.chunk.js"
   ]
 }
