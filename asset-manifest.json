@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/wcvolleyball/static/css/main.ab7244b2.chunk.css",
-    "main.js": "/wcvolleyball/static/js/main.56efc0b6.chunk.js",
-    "main.js.map": "/wcvolleyball/static/js/main.56efc0b6.chunk.js.map",
+    "main.css": "/wcvolleyball/static/css/main.b6da4378.chunk.css",
+    "main.js": "/wcvolleyball/static/js/main.a65b122d.chunk.js",
+    "main.js.map": "/wcvolleyball/static/js/main.a65b122d.chunk.js.map",
     "runtime-main.js": "/wcvolleyball/static/js/runtime-main.11a96522.js",
     "runtime-main.js.map": "/wcvolleyball/static/js/runtime-main.11a96522.js.map",
     "static/css/2.0ccfe9d6.chunk.css": "/wcvolleyball/static/css/2.0ccfe9d6.chunk.css",
-    "static/js/2.76f3d6cd.chunk.js": "/wcvolleyball/static/js/2.76f3d6cd.chunk.js",
-    "static/js/2.76f3d6cd.chunk.js.map": "/wcvolleyball/static/js/2.76f3d6cd.chunk.js.map",
+    "static/js/2.bc7dc8a0.chunk.js": "/wcvolleyball/static/js/2.bc7dc8a0.chunk.js",
+    "static/js/2.bc7dc8a0.chunk.js.map": "/wcvolleyball/static/js/2.bc7dc8a0.chunk.js.map",
     "static/js/3.b638be81.chunk.js": "/wcvolleyball/static/js/3.b638be81.chunk.js",
     "static/js/3.b638be81.chunk.js.map": "/wcvolleyball/static/js/3.b638be81.chunk.js.map",
     "index.html": "/wcvolleyball/index.html",
     "static/css/2.0ccfe9d6.chunk.css.map": "/wcvolleyball/static/css/2.0ccfe9d6.chunk.css.map",
-    "static/css/main.ab7244b2.chunk.css.map": "/wcvolleyball/static/css/main.ab7244b2.chunk.css.map",
-    "static/js/2.76f3d6cd.chunk.js.LICENSE.txt": "/wcvolleyball/static/js/2.76f3d6cd.chunk.js.LICENSE.txt",
+    "static/css/main.b6da4378.chunk.css.map": "/wcvolleyball/static/css/main.b6da4378.chunk.css.map",
+    "static/js/2.bc7dc8a0.chunk.js.LICENSE.txt": "/wcvolleyball/static/js/2.bc7dc8a0.chunk.js.LICENSE.txt",
     "static/media/black.2615e5c4.png": "/wcvolleyball/static/media/black.2615e5c4.png",
     "static/media/blue.e43bd0a7.png": "/wcvolleyball/static/media/blue.e43bd0a7.png",
     "static/media/green.3663ce8c.png": "/wcvolleyball/static/media/green.3663ce8c.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.11a96522.js",
     "static/css/2.0ccfe9d6.chunk.css",
-    "static/js/2.76f3d6cd.chunk.js",
-    "static/css/main.ab7244b2.chunk.css",
-    "static/js/main.56efc0b6.chunk.js"
+    "static/js/2.bc7dc8a0.chunk.js",
+    "static/css/main.b6da4378.chunk.css",
+    "static/js/main.a65b122d.chunk.js"
   ]
 }
