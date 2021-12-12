@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/wcvolleyball/static/css/main.dd4499ab.chunk.css",
-    "main.js": "/wcvolleyball/static/js/main.ea84373d.chunk.js",
-    "main.js.map": "/wcvolleyball/static/js/main.ea84373d.chunk.js.map",
-    "runtime-main.js": "/wcvolleyball/static/js/runtime-main.67bd405b.js",
-    "runtime-main.js.map": "/wcvolleyball/static/js/runtime-main.67bd405b.js.map",
-    "static/css/2.b1467b51.chunk.css": "/wcvolleyball/static/css/2.b1467b51.chunk.css",
-    "static/js/2.ce19e925.chunk.js": "/wcvolleyball/static/js/2.ce19e925.chunk.js",
-    "static/js/2.ce19e925.chunk.js.map": "/wcvolleyball/static/js/2.ce19e925.chunk.js.map",
-    "static/js/3.e74bf2ab.chunk.js": "/wcvolleyball/static/js/3.e74bf2ab.chunk.js",
-    "static/js/3.e74bf2ab.chunk.js.map": "/wcvolleyball/static/js/3.e74bf2ab.chunk.js.map",
-    "index.html": "/wcvolleyball/index.html",
-    "static/css/2.b1467b51.chunk.css.map": "/wcvolleyball/static/css/2.b1467b51.chunk.css.map",
-    "static/css/main.dd4499ab.chunk.css.map": "/wcvolleyball/static/css/main.dd4499ab.chunk.css.map",
-    "static/js/2.ce19e925.chunk.js.LICENSE.txt": "/wcvolleyball/static/js/2.ce19e925.chunk.js.LICENSE.txt",
-    "static/media/slick-theme.css": "/wcvolleyball/static/media/slick.c94f7671.ttf"
+    "main.css": "/static/css/main.dd4499ab.chunk.css",
+    "main.js": "/static/js/main.8668b17d.chunk.js",
+    "main.js.map": "/static/js/main.8668b17d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17d9a2f7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17d9a2f7.js.map",
+    "static/css/2.7e3bb2f7.chunk.css": "/static/css/2.7e3bb2f7.chunk.css",
+    "static/js/2.ce19e925.chunk.js": "/static/js/2.ce19e925.chunk.js",
+    "static/js/2.ce19e925.chunk.js.map": "/static/js/2.ce19e925.chunk.js.map",
+    "static/js/3.e74bf2ab.chunk.js": "/static/js/3.e74bf2ab.chunk.js",
+    "static/js/3.e74bf2ab.chunk.js.map": "/static/js/3.e74bf2ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7e3bb2f7.chunk.css.map": "/static/css/2.7e3bb2f7.chunk.css.map",
+    "static/css/main.dd4499ab.chunk.css.map": "/static/css/main.dd4499ab.chunk.css.map",
+    "static/js/2.ce19e925.chunk.js.LICENSE.txt": "/static/js/2.ce19e925.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.67bd405b.js",
-    "static/css/2.b1467b51.chunk.css",
+    "static/js/runtime-main.17d9a2f7.js",
+    "static/css/2.7e3bb2f7.chunk.css",
     "static/js/2.ce19e925.chunk.js",
     "static/css/main.dd4499ab.chunk.css",
-    "static/js/main.ea84373d.chunk.js"
+    "static/js/main.8668b17d.chunk.js"
   ]
 }
