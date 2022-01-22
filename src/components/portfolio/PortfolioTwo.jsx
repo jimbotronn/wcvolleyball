@@ -9,7 +9,7 @@ const PortfolioTwo = () => {
     <div className="shane_tm_section shane_tm_section_mod" id="portfolio">
     <SimpleReactLightbox>
         <div className="shane_tm_portfolio shane_tm_portfolio_mod">
-          <div className="container">
+          <div className="container2">
             <div className="positon-relative">
               {/* End shane_tm_title */}
               <div className="portfolio_filter">

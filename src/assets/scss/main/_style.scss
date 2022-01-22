@@ -628,7 +628,7 @@ h6 {
   clip-path: ellipse(70% 80% at 70% 50%);
 }
 .shane_tm_hero .container {
-  height: 100%;
+  height: 90vh;
 }
 
 .shane_tm_hero .content {
@@ -4453,7 +4453,6 @@ p.sponsorbutton {
   margin-top: 1vw;
   display: flex;
   flex-direction: row;
-  width: 30vw;
   height: 5vh;
   /* margin: 2.75rem 0 1.05rem; */
   line-height: 1.2;
@@ -4609,3 +4608,21 @@ h2.calendar-title {
 .calendar-body {
   background: white;
 }
+
+
+.position-relative.position-flex {
+  height: 90vh;
+}
+
+.container2 {
+  max-width: 1200px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  padding: 0px 40px;
+  position: relative;
+  clear: both;
+  padding-top:8vh;
+}
+
