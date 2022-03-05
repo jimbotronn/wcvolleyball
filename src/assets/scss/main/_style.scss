@@ -598,6 +598,7 @@ h6 {
   .shane_tm_hero {
     @media screen and (max-width: 767px) {
       padding: 270px 0;
+      padding-top:0px;
     }
   }
 }
@@ -3278,7 +3279,7 @@ body.intro .loader_line:after {
   font-weight: 800;
   @media screen and (max-width: 1040px) {
     font-weight: 700;
-    font-size: 25px;
+    font-size: 1em;
   }
   @media screen and (max-width: 768px) {
     font-size: 19px;
@@ -3928,6 +3929,16 @@ background-color:#2f8884 !important;
 	-o-transition: all 0.3s ease-in-out 0s;
 	-webkit-transition: all 0.3s ease-in-out 0s;
 }
+
+@media (max-width: 400px) {
+
+a.css-d0cexe-Calendar {
+  font-size: 8px !important;
+}
+.css-155wnvz-Calendar {
+  width: 200px !important;
+}
+}
 @media (max-width: 500px) {
   .slider-four{
     position:relative !important;
@@ -3953,6 +3964,9 @@ background-color:#2f8884 !important;
   display: flex; 
   flex-direction:column-reverse;
 }
+a.css-d0cexe-Calendar {
+  font-size: 12px;
+}
 }
 
 @media (max-width: 767px) {
@@ -3960,7 +3974,7 @@ background-color:#2f8884 !important;
 		margin-bottom: 75px;
 	}
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 819px) {
 	#generic_price_table .col-md-3 {
 		float: left;
 		width: 50%;
@@ -3974,8 +3988,41 @@ background-color:#2f8884 !important;
 	#generic_price_table .generic_content {
 		margin-bottom: 75px;
 	}
+  .cardaction2 {
+    margin-top: 3.5vh !important;
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+.container.calendarcontainer {
+  padding-left: 20px;
+  padding-right: 20px !important;
+}
+}
+@media (min-width: 820px) and (max-width: 1199px) {
+  .container.calendarcontainer {
+    padding-left: 20px;
+    padding-right: 20px !important;
+}
+.cardaction2 {
+  margin-top: 5.5vh !important;
+}
+.cardaction5 a {
+  line-height: 1.2;
+  font-family: "Jost", sans-serif;
+  font-size: 1.2em !important;
+  color: #ffffff;
+}
+.cardaction4 a {
+  color: #ffffff;
+  line-height: 1.2;
+  font-family: "Jost", sans-serif;
+  font-size: 1.2em !important;
+}
+
+.mcc_section.calendarsection {
+}
+
+.shane_tm_hero .container {
+    padding-left: 0px !important;
+}
 }
 @media (min-width: 1200px) {
 }
@@ -4427,7 +4474,7 @@ p.sponsorbutton {
 }
 
 .cardaction1 a {
-  padding: 5.5rem 0rem 1.5rem 8.6rem;
+  padding: 5.5rem 0rem 1.5rem 4.6rem;
   /* margin-left: auto; */
   /* margin-right: 2vw; */
   font-size: 1.3em;
@@ -4626,3 +4673,6 @@ h2.calendar-title {
   padding-top:8vh;
 }
 
+.home-four .shane_tm_hero .content h3 {
+  font-size: 2.8em !important;
+}
